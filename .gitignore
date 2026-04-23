@@ -11,3 +11,7 @@ nb-configuration.xml
 .settings/
 .project
 .classpath
+
+# Coursework Reports
+Report.md
+Report.pdf
